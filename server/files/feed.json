@@ -1,0 +1,413 @@
+{
+  "data": [
+    {
+      "id": "6815841748_10152644638001749",
+      "type": "photo",
+      "message": "Only 24 days until the health insurance marketplace opens again for all Americans.",
+      "link": "https://www.facebook.com/barackobama/photos/a.53081056748.66806.6815841748/10152644634591749/?type=1&relevant_count=1",
+      "created_time": "2014-10-22T15:56:14+0000",
+      "shares": {
+        "count": 2540
+      },
+      "status_type": "added_photos",
+      "likes": {
+        "data": [
+          {
+            "id": "10205010976012755",
+            "name": "Amanda Zeller"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "after": "MTAyMDUwMTA5NzYwMTI3NTU=",
+            "before": "MTAyMDUwMTA5NzYwMTI3NTU="
+          },
+          "next": "https://graph.facebook.com/v2.1/6815841748_10152644638001749/likes?limit=1&summary=true&access_token=1497409807186051|EOg7qnHt0Olac8Y8pG1ayf2AsaU&after=MTAyMDUwMTA5NzYwMTI3NTU%3D"
+        },
+        "summary": {
+          "total_count": 23994
+        }
+      }
+    },
+    {
+      "id": "6815841748_10152643331641749",
+      "type": "link",
+      "message": "Do your part to help Americans get covered this fall—and help make health care reform a lasting success: http://ofa.bo/g1GY",
+      "link": "http://ofa.bo/g1GY",
+      "created_time": "2014-10-21T21:06:31+0000",
+      "shares": {
+        "count": 1185
+      },
+      "status_type": "shared_story",
+      "likes": {
+        "data": [
+          {
+            "id": "10204243081949931",
+            "name": "Kathy Racz"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "after": "MTAyMDQyNDMwODE5NDk5MzE=",
+            "before": "MTAyMDQyNDMwODE5NDk5MzE="
+          },
+          "next": "https://graph.facebook.com/v2.1/6815841748_10152643331641749/likes?limit=1&summary=true&access_token=1497409807186051|EOg7qnHt0Olac8Y8pG1ayf2AsaU&after=MTAyMDQyNDMwODE5NDk5MzE%3D"
+        },
+        "summary": {
+          "total_count": 15231
+        }
+      }
+    },
+    {
+      "id": "6815841748_10152642734161749",
+      "type": "link",
+      "message": "Another big reason why health care reform matters: http://ofa.bo/s1JB",
+      "link": "http://ofa.bo/s1JB",
+      "created_time": "2014-10-21T15:55:07+0000",
+      "shares": {
+        "count": 2286
+      },
+      "status_type": "shared_story",
+      "likes": {
+        "data": [
+          {
+            "id": "1535919186649292",
+            "name": "Ko Kyaw"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "after": "MTUzNTkxOTE4NjY0OTI5Mg==",
+            "before": "MTUzNTkxOTE4NjY0OTI5Mg=="
+          },
+          "next": "https://graph.facebook.com/v2.1/6815841748_10152642734161749/likes?limit=1&summary=true&access_token=1497409807186051|EOg7qnHt0Olac8Y8pG1ayf2AsaU&after=MTUzNTkxOTE4NjY0OTI5Mg%3D%3D"
+        },
+        "summary": {
+          "total_count": 33431
+        }
+      }
+    },
+    {
+      "id": "6815841748_10152640916151749",
+      "type": "link",
+      "message": "More than 10 million Americans got covered through Obamacare. That's because of you—now, join the team getting ready for Round 2. http://ofa.bo/h1H1",
+      "link": "http://ofa.bo/h1H1",
+      "created_time": "2014-10-20T15:58:02+0000",
+      "shares": {
+        "count": 2110
+      },
+      "status_type": "shared_story",
+      "likes": {
+        "data": [
+          {
+            "id": "10202775792942769",
+            "name": "Barkah Agung Endro N"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "after": "MTAyMDI3NzU3OTI5NDI3Njk=",
+            "before": "MTAyMDI3NzU3OTI5NDI3Njk="
+          },
+          "next": "https://graph.facebook.com/v2.1/6815841748_10152640916151749/likes?limit=1&summary=true&access_token=1497409807186051|EOg7qnHt0Olac8Y8pG1ayf2AsaU&after=MTAyMDI3NzU3OTI5NDI3Njk%3D"
+        },
+        "summary": {
+          "total_count": 29500
+        }
+      }
+    },
+    {
+      "id": "6815841748_10152636987786749",
+      "type": "photo",
+      "message": "\"I am absolutely confident that we can prevent a serious outbreak here in the United States, and we can continue to lead the world in this urgent effort.\" —President Obama on Ebola \n\nWatch the weekly address: http://ofa.bo/q1Hw",
+      "link": "https://www.facebook.com/barackobama/photos/a.53081056748.66806.6815841748/10152636986261749/?type=1&relevant_count=1",
+      "created_time": "2014-10-18T16:14:08+0000",
+      "shares": {
+        "count": 4845
+      },
+      "status_type": "added_photos",
+      "likes": {
+        "data": [
+          {
+            "id": "10154828578095160",
+            "name": "Shelley Cathrea-Roy"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "after": "MTAxNTQ4Mjg1NzgwOTUxNjA=",
+            "before": "MTAxNTQ4Mjg1NzgwOTUxNjA="
+          },
+          "next": "https://graph.facebook.com/v2.1/6815841748_10152636987786749/likes?limit=1&summary=true&access_token=1497409807186051|EOg7qnHt0Olac8Y8pG1ayf2AsaU&after=MTAxNTQ4Mjg1NzgwOTUxNjA%3D"
+        },
+        "summary": {
+          "total_count": 106570
+        }
+      }
+    },
+    {
+      "id": "6815841748_10152635365176749",
+      "type": "photo",
+      "link": "https://www.facebook.com/WhiteHouse/photos/a.158628314237.115142.63811549237/10152887938499238/?type=1",
+      "created_time": "2014-10-17T17:19:31+0000",
+      "shares": {
+        "count": 152
+      },
+      "status_type": "shared_story",
+      "likes": {
+        "data": [
+          {
+            "id": "844100862289450",
+            "name": "Anesta Charles Aubame"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "after": "ODQ0MTAwODYyMjg5NDUw",
+            "before": "ODQ0MTAwODYyMjg5NDUw"
+          },
+          "next": "https://graph.facebook.com/v2.1/6815841748_10152635365176749/likes?limit=1&summary=true&access_token=1497409807186051|EOg7qnHt0Olac8Y8pG1ayf2AsaU&after=ODQ0MTAwODYyMjg5NDUw"
+        },
+        "summary": {
+          "total_count": 20016
+        }
+      }
+    },
+    {
+      "id": "6815841748_10152633537286749",
+      "type": "link",
+      "message": "Quality health coverage doesn't have to cost an arm and a leg. Find out how Obamacare is working for you: http://ofa.bo/b1I9",
+      "link": "http://ofa.bo/b1I9",
+      "created_time": "2014-10-16T19:34:49+0000",
+      "shares": {
+        "count": 1917
+      },
+      "status_type": "shared_story",
+      "likes": {
+        "data": [
+          {
+            "id": "363421233828041",
+            "name": "Ben  Tan"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "after": "MzYzNDIxMjMzODI4MDQx",
+            "before": "MzYzNDIxMjMzODI4MDQx"
+          },
+          "next": "https://graph.facebook.com/v2.1/6815841748_10152633537286749/likes?limit=1&summary=true&access_token=1497409807186051|EOg7qnHt0Olac8Y8pG1ayf2AsaU&after=MzYzNDIxMjMzODI4MDQx"
+        },
+        "summary": {
+          "total_count": 20553
+        }
+      }
+    },
+    {
+      "id": "6815841748_10152631852671749",
+      "type": "link",
+      "message": "You have a role to play in making the next health care enrollment period a success: http://ofa.bo/a1Fy",
+      "link": "http://ofa.bo/a1Fy",
+      "created_time": "2014-10-15T20:26:04+0000",
+      "shares": {
+        "count": 869
+      },
+      "status_type": "shared_story",
+      "likes": {
+        "data": [
+          {
+            "id": "1485564158360539",
+            "name": "Thomas Linda Linda"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "after": "MTQ4NTU2NDE1ODM2MDUzOQ==",
+            "before": "MTQ4NTU2NDE1ODM2MDUzOQ=="
+          },
+          "next": "https://graph.facebook.com/v2.1/6815841748_10152631852671749/likes?limit=1&summary=true&access_token=1497409807186051|EOg7qnHt0Olac8Y8pG1ayf2AsaU&after=MTQ4NTU2NDE1ODM2MDUzOQ%3D%3D"
+        },
+        "summary": {
+          "total_count": 16686
+        }
+      }
+    },
+    {
+      "id": "6815841748_10152631348611749",
+      "type": "photo",
+      "message": "Get ready.",
+      "link": "https://www.facebook.com/barackobama/photos/a.53081056748.66806.6815841748/10152631337606749/?type=1&relevant_count=1",
+      "created_time": "2014-10-15T14:42:58+0000",
+      "shares": {
+        "count": 4201
+      },
+      "status_type": "added_photos",
+      "likes": {
+        "data": [
+          {
+            "id": "1485564158360539",
+            "name": "Thomas Linda Linda"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "after": "MTQ4NTU2NDE1ODM2MDUzOQ==",
+            "before": "MTQ4NTU2NDE1ODM2MDUzOQ=="
+          },
+          "next": "https://graph.facebook.com/v2.1/6815841748_10152631348611749/likes?limit=1&summary=true&access_token=1497409807186051|EOg7qnHt0Olac8Y8pG1ayf2AsaU&after=MTQ4NTU2NDE1ODM2MDUzOQ%3D%3D"
+        },
+        "summary": {
+          "total_count": 59183
+        }
+      }
+    },
+    {
+      "id": "6815841748_10152629620596749",
+      "type": "link",
+      "message": "The clock is ticking for you to show your support for aggressive action on climate change. Add your name before OFA's deadline tonight: http://ofa.bo/i1Dx ",
+      "link": "http://ofa.bo/i1Dx",
+      "created_time": "2014-10-14T18:13:27+0000",
+      "shares": {
+        "count": 1536
+      },
+      "status_type": "shared_story",
+      "likes": {
+        "data": [
+          {
+            "id": "1485564158360539",
+            "name": "Thomas Linda Linda"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "after": "MTQ4NTU2NDE1ODM2MDUzOQ==",
+            "before": "MTQ4NTU2NDE1ODM2MDUzOQ=="
+          },
+          "next": "https://graph.facebook.com/v2.1/6815841748_10152629620596749/likes?limit=1&summary=true&access_token=1497409807186051|EOg7qnHt0Olac8Y8pG1ayf2AsaU&after=MTQ4NTU2NDE1ODM2MDUzOQ%3D%3D"
+        },
+        "summary": {
+          "total_count": 24850
+        }
+      }
+    },
+    {
+      "id": "6815841748_10152627018926749",
+      "type": "photo",
+      "message": "Share if you agree: America thrives when its middle class is thriving.",
+      "link": "https://www.facebook.com/barackobama/photos/a.53081056748.66806.6815841748/10152627018236749/?type=1&relevant_count=1",
+      "created_time": "2014-10-13T18:41:48+0000",
+      "shares": {
+        "count": 18695
+      },
+      "status_type": "added_photos",
+      "likes": {
+        "data": [
+          {
+            "id": "653470938104154",
+            "name": "Billy Geldaker"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "after": "NjUzNDcwOTM4MTA0MTU0",
+            "before": "NjUzNDcwOTM4MTA0MTU0"
+          },
+          "next": "https://graph.facebook.com/v2.1/6815841748_10152627018926749/likes?limit=1&summary=true&access_token=1497409807186051|EOg7qnHt0Olac8Y8pG1ayf2AsaU&after=NjUzNDcwOTM4MTA0MTU0"
+        },
+        "summary": {
+          "total_count": 196902
+        }
+      }
+    },
+    {
+      "id": "6815841748_10152620958881749",
+      "type": "photo",
+      "message": "\"America deserves a raise right now. And America should forever be a place where your hard work is rewarded.\" —President Obama\n\nWatch the weekly address: http://ofa.bo/c1An",
+      "link": "https://www.facebook.com/barackobama/photos/a.53081056748.66806.6815841748/10152620955646749/?type=1&relevant_count=1",
+      "created_time": "2014-10-11T14:41:30+0000",
+      "shares": {
+        "count": 6058
+      },
+      "status_type": "added_photos",
+      "likes": {
+        "data": [
+          {
+            "id": "1473995472862940",
+            "name": "Taba Kunna"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "after": "MTQ3Mzk5NTQ3Mjg2Mjk0MA==",
+            "before": "MTQ3Mzk5NTQ3Mjg2Mjk0MA=="
+          },
+          "next": "https://graph.facebook.com/v2.1/6815841748_10152620958881749/likes?limit=1&summary=true&access_token=1497409807186051|EOg7qnHt0Olac8Y8pG1ayf2AsaU&after=MTQ3Mzk5NTQ3Mjg2Mjk0MA%3D%3D"
+        },
+        "summary": {
+          "total_count": 113259
+        }
+      }
+    },
+    {
+      "id": "6815841748_10152618956936749",
+      "type": "photo",
+      "message": "FACT: The economy would be better off #With1010. Add your name to this petition if you think it's time to raise the wage: http://ofa.bo/i1AZ",
+      "link": "https://www.facebook.com/barackobama/photos/a.53081056748.66806.6815841748/10152618950141749/?type=1&relevant_count=1",
+      "created_time": "2014-10-10T19:55:21+0000",
+      "shares": {
+        "count": 3080
+      },
+      "status_type": "added_photos",
+      "likes": {
+        "data": [
+          {
+            "id": "1473995472862940",
+            "name": "Taba Kunna"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "after": "MTQ3Mzk5NTQ3Mjg2Mjk0MA==",
+            "before": "MTQ3Mzk5NTQ3Mjg2Mjk0MA=="
+          },
+          "next": "https://graph.facebook.com/v2.1/6815841748_10152618956936749/likes?limit=1&summary=true&access_token=1497409807186051|EOg7qnHt0Olac8Y8pG1ayf2AsaU&after=MTQ3Mzk5NTQ3Mjg2Mjk0MA%3D%3D"
+        },
+        "summary": {
+          "total_count": 45008
+        }
+      }
+    },
+    {
+      "id": "6815841748_10152618483876749",
+      "type": "video",
+      "message": "Watch the President's message: \"Real change comes when all of us do our part. I'm going to keep at it, so that every American who's willing to work hard can have a fighting chance.\" \n\nSign this minimum wage petition: http://ofa.bo/s1BG",
+      "link": "https://www.facebook.com/video.php?v=10152618483876749",
+      "created_time": "2014-10-10T16:12:20+0000",
+      "shares": {
+        "count": 8323
+      },
+      "status_type": "added_video",
+      "likes": {
+        "data": [
+          {
+            "id": "1495257374090155",
+            "name": "Marco Punyarat"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "after": "MTQ5NTI1NzM3NDA5MDE1NQ==",
+            "before": "MTQ5NTI1NzM3NDA5MDE1NQ=="
+          },
+          "next": "https://graph.facebook.com/v2.1/6815841748_10152618483876749/likes?limit=1&summary=true&access_token=1497409807186051|EOg7qnHt0Olac8Y8pG1ayf2AsaU&after=MTQ5NTI1NzM3NDA5MDE1NQ%3D%3D"
+        },
+        "summary": {
+          "total_count": 69843
+        }
+      }
+    }
+  ],
+  "paging": {
+    "previous": "https://graph.facebook.com/v2.1/6815841748/feed?fields=id,type,message,link,created_time,shares,likes.limit%281%29.summary%28true%29,status_type&access_token=1497409807186051|EOg7qnHt0Olac8Y8pG1ayf2AsaU&limit=25&since=1413993374&__previous=1",
+    "next": "https://graph.facebook.com/v2.1/6815841748/feed?fields=id,type,message,link,created_time,shares,likes.limit%281%29.summary%28true%29,status_type&access_token=1497409807186051|EOg7qnHt0Olac8Y8pG1ayf2AsaU&limit=25&until=1412957539"
+  }
+}
