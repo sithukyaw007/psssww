@@ -8,9 +8,12 @@
 var Thing = require('../api/thing/thing.model');
 var User = require('../api/user/user.model');
 var Feed = require('../api/feed/feed.model');
+var Comment = require('../api/comment/comment.model');
 
 Feed.find({}).remove(function() {
+});
 
+Comment.find({}).remove(function() {
 });
 
 Thing.find({}).remove(function() {

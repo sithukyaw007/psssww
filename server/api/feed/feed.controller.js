@@ -12,7 +12,7 @@ var moment = require('moment');
 var filePath =  'server/files/feed.json';
 var feedData = [];
 
-var getNextBatchPost = function (pagination, res) {
+var getNextBatchPost_One = function (pagination, res) {
   console.log('pagination ' + pagination.next);
   console.log('comes into getNextBatchPost');
   console.log('before paging ' + feedData.length);
@@ -59,10 +59,49 @@ var getNextBatchPost = function (pagination, res) {
   });
 };
 
+var getNextBatchPost = function (pagination, res) {
+    graph
+    // .setOptions(options)
+    .get(pagination.next, function(err, feeds) {
+
+      // var count = 1;
+      feeds.data.forEach(function(f) {
+        // console.log('adding in first push ' + count++);
+        // console.log('f status ' + f.status_type);
+
+        if (f.status_type !== 'shared_story') {
+            var day = moment(f.created_time).format('YYYY MM DD');
+            var feed = {
+              id: f.id,
+              type: f.type,
+              message: f.message,
+              link: f.link,
+              month: day.substring(5, 7),
+              created_time: f.created_time,
+              share_count: f.shares.count,
+              likes_count: f.likes.summary.total_count
+            };
+            feedData.push(feed);
+          }
+      });
+
+        getNextBatchPost_One(feeds.paging, res);
+
+
+      // console.log('AFTER paging ' + feedData.length);
+      // // console.log(feedData[feedData.length-1]);
+
+      // Feed.create(feedData, function(err, feed) {
+      //   if(err) { return handleError(res, err); }
+      //   // return res.json(201, feed);
+      // });
+
+      // res.json({ 'feed': feedData});
+
+  });
+};
+
 exports.index = function(req, res) {
-  Feed.find(function (err, feeds) {
-    if(err) { return handleError(res, err); }
-    // return res.json(200, feeds);
 
     feedData = [];
 
@@ -71,7 +110,6 @@ exports.index = function(req, res) {
     headers:  { connection:  "keep-alive" }
     };
 
-    var test = {};
     graph
     .setOptions(options)
     // .get("barackobama/feed?fields=id,type,message,link,created_time,shares,likes.limit(1).summary(true),status_type", function(err, feeds) {
@@ -87,9 +125,7 @@ exports.index = function(req, res) {
 
       feeds.data.forEach(function(f) {
         if (f.status_type !== 'shared_story') {
-           console.log(f.status_type);
            var day = moment(f.created_time).format('YYYY MM DD');
-           console.log(day);
            var feed = {
             id: f.id,
             type: f.type,
@@ -133,11 +169,11 @@ exports.index = function(req, res) {
   //         });
   //     });
   });
-  });
 };
 
 // Get a single feed
 exports.show = function(req, res) {
+  console.log('incoming search ' + req.params.id);
   Feed.findById(req.params.id, function (err, feed) {
     if(err) { return handleError(res, err); }
     if(!feed) { return res.send(404); }
