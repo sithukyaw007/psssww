@@ -5,7 +5,11 @@ var mongoose = require('mongoose'),
 
 var CommentSchema = new Schema({
 id: String,
-from: String,
+post_id: String,
+from: {
+      id: String,
+      name: String
+ },
 message: String,
 created_time: String,
 user_likes: Boolean
